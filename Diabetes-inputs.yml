@@ -1,0 +1,192 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/diabetes-drug-code-500microgram---primary.py
+inputModule3:
+  class: File
+  path: python/diabetes-drug-code-isoph---primary.py
+inputModule4:
+  class: File
+  path: python/diabetes-drug-code-crystalline---primary.py
+inputModule5:
+  class: File
+  path: python/diabetes-drug-code-bipha---primary.py
+inputModule6:
+  class: File
+  path: python/diabetes-drug-code-glimepiride---primary.py
+inputModule7:
+  class: File
+  path: python/diabetes-drug-code-humulin---primary.py
+inputModule8:
+  class: File
+  path: python/diabetes-drug-code-glipizide---primary.py
+inputModule9:
+  class: File
+  path: python/diabetes-drug-code-glargine---primary.py
+inputModule10:
+  class: File
+  path: python/diabetes-drug-code-aspart---primary.py
+inputModule11:
+  class: File
+  path: python/neutral-diabetes-drug-code---primary.py
+inputModule12:
+  class: File
+  path: python/diabetes-drug-code-metform---primary.py
+inputModule13:
+  class: File
+  path: python/diabetes-drug-code-400mg---primary.py
+inputModule14:
+  class: File
+  path: python/diabetes-drug-code-250mg---primary.py
+inputModule15:
+  class: File
+  path: python/diabetes-drug-code-180mg---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-drug-code-750mg---primary.py
+inputModule17:
+  class: File
+  path: python/diabetes-drug-code-protamine---primary.py
+inputModule18:
+  class: File
+  path: python/diabetes-drug-code-bovine---primary.py
+inputModule19:
+  class: File
+  path: python/diabetes-drug-code-lispro---primary.py
+inputModule20:
+  class: File
+  path: python/diabetes-drug-code-tolazamide---primary.py
+inputModule21:
+  class: File
+  path: python/diabetes-drug-code-glibenclamide---primary.py
+inputModule22:
+  class: File
+  path: python/diabetes-drug-code-suspension---primary.py
+inputModule23:
+  class: File
+  path: python/diabetes-drug-code-lente---primary.py
+inputModule24:
+  class: File
+  path: python/diabetes-drug-code-troglitazone---primary.py
+inputModule25:
+  class: File
+  path: python/diabetes-drug-code-tolbutamide---primary.py
+inputModule26:
+  class: File
+  path: python/mixed-diabetes-drug-code---primary.py
+inputModule27:
+  class: File
+  path: python/diabetes-drug-code-cartridge---primary.py
+inputModule28:
+  class: File
+  path: python/diabetes-drug-code-modifiedrelease---primary.py
+inputModule29:
+  class: File
+  path: python/diabetes-drug-code-100mg---primary.py
+inputModule30:
+  class: File
+  path: python/diabetes-drug-code-002ml---primary.py
+inputModule31:
+  class: File
+  path: python/diabetes-drug-code-repaglinide---primary.py
+inputModule32:
+  class: File
+  path: python/diabetes-drug-code-linagliptin---primary.py
+inputModule33:
+  class: File
+  path: python/diabetes-drug-code-rosigl---primary.py
+inputModule34:
+  class: File
+  path: python/diabetes-drug-code-glibornuride---primary.py
+inputModule35:
+  class: File
+  path: python/diabetes-drug-code-gliquidone---primary.py
+inputModule36:
+  class: File
+  path: python/diabetes-drug-code-soluble---primary.py
+inputModule37:
+  class: File
+  path: python/diabetes-drug-code-insuln---primary.py
+inputModule38:
+  class: File
+  path: python/diabetes-drug-code-syrng---primary.py
+inputModule39:
+  class: File
+  path: python/diabetes-drug-code-pioglitazone---primary.py
+inputModule40:
+  class: File
+  path: python/diabetes-drug-code-dapagliflozin---primary.py
+inputModule41:
+  class: File
+  path: python/diabetes-drug-code-exenatide---primary.py
+inputModule42:
+  class: File
+  path: python/diabetes-drug-code-sterile---primary.py
+inputModule43:
+  class: File
+  path: python/diabetes-drug-code-glulisine---primary.py
+inputModule44:
+  class: File
+  path: python/diabetes-drug-code-tablet---primary.py
+inputModule45:
+  class: File
+  path: python/diabetes-drug-code-004ml---primary.py
+inputModule46:
+  class: File
+  path: python/diabetes-drug-code-vilda---primary.py
+inputModule47:
+  class: File
+  path: python/diabetes-drug-code-acetohexamide---primary.py
+inputModule48:
+  class: File
+  path: python/diabetes-drug-code-chlorpropamide---primary.py
+inputModule49:
+  class: File
+  path: python/diabetes-drug-code-blister---primary.py
+inputModule50:
+  class: File
+  path: python/diabetes-drug-code-liraglutide---primary.py
+inputModule51:
+  class: File
+  path: python/diabetes-drug-code-porcine---primary.py
+inputModule52:
+  class: File
+  path: python/diabetes-drug-code-acarbose---primary.py
+inputModule53:
+  class: File
+  path: python/diabetes-drug-code-gliclazide---primary.py
+inputModule54:
+  class: File
+  path: python/diabetes-drug-code-sitagliptin---primary.py
+inputModule55:
+  class: File
+  path: python/diabetes-drug-code-semitard---primary.py
+inputModule56:
+  class: File
+  path: python/diabetes-drug-code-saxagliptin---primary.py
+inputModule57:
+  class: File
+  path: python/diabetes-drug-code-detemir---primary.py
+inputModule58:
+  class: File
+  path: python/diabetes-drug-code-120mg---primary.py
+inputModule59:
+  class: File
+  path: python/diabetes-drug-code-200mg---primary.py
+inputModule60:
+  class: File
+  path: python/diabetes-drug-code-nateglinide---primary.py
+inputModule61:
+  class: File
+  path: python/diabetes-drug-code-inhalation---primary.py
+inputModule62:
+  class: File
+  path: python/diabetes-drug-code-powder---primary.py
+inputModule63:
+  class: File
+  path: python/diabetes-drug-code-device---primary.py
+inputModule64:
+  class: File
+  path: python/output-cases.py
